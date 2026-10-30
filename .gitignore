@@ -1,0 +1,24 @@
+# R temporary files
+.Rhistory
+.RData
+.Ruserdata
+.Rproj.user/
+
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+
+# Temporary and log files
+*.log
+*.tmp
+*.bak
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Generated structural files
+*.pdb
+*.cif
+*.mmcif

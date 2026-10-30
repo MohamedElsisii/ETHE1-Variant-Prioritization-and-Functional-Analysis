@@ -1,0 +1,49 @@
+Variant,Protein_Change,Consequence,Priority,Active_Site_Residues_Lost,Iron_Binding_Residues_Lost,Complete_Epitopes_Lost,Partial_Epitopes_Affected,Intact_Epitopes,Functional_Impact
+c.187C>T,Q63*,stop gained,High,9,3,7,1,1,Complete functional loss
+c.129_132del,R43NA,frameshift,High,9,3,8,1,0,Complete functional loss
+c.189del,Q63NA,frameshift,High,9,3,7,1,1,Complete functional loss
+c.34C>T,Q12*,stop gained,High,9,3,9,0,0,Complete functional loss
+c.43C>T,Q15*,stop gained,High,9,3,9,0,0,Complete functional loss
+c.43del,Q15NA,frameshift,High,9,3,9,0,0,Complete functional loss
+c.68del,I23NA,frameshift,High,9,3,9,0,0,Complete functional loss
+c.79C>T,Q27*,stop gained,High,9,3,9,0,0,Complete functional loss
+c.7G>T,E3*,stop gained,High,9,3,9,0,0,Complete functional loss
+c.10_13dup,V5NA,frameshift,High,9,3,9,0,0,Complete functional loss
+c.19_20dup,V8NA,frameshift,High,9,3,9,0,0,Complete functional loss
+c.48_49dup,G17NA,frameshift,High,9,3,9,0,0,Complete functional loss
+c.56del,S19NA,frameshift,High,9,3,9,0,0,Complete functional loss
+c.61del,A21NA,frameshift,High,9,3,9,0,0,Complete functional loss
+c.66del,I23NA,frameshift,High,9,3,9,0,0,Complete functional loss
+c.461del,D154NA,frameshift,Very High,5,0,4,0,5,Major functional disruption
+c.591C>G,Y197*,stop gained,Very High,1,0,1,1,7,Major functional disruption
+c.448_469dup,L157NA,frameshift,Very High,1,0,2,0,7,Major functional disruption
+c.241del,H81NA,frameshift,High,6,1,4,1,4,Major functional disruption
+c.252_253dup,I85NA,frameshift,High,6,1,4,1,4,Major functional disruption
+c.254_258dup,G87NA,frameshift,High,6,1,4,1,4,Major functional disruption
+c.280dup,L94P,frameshift,High,7,2,5,1,3,Major functional disruption
+c.295C>T,Q99*,stop gained,High,7,2,5,1,3,Major functional disruption
+c.312_319del,L105NA,frameshift,High,7,2,5,1,3,Major functional disruption
+c.325C>T,Q109*,stop gained,High,7,2,5,1,3,Major functional disruption
+c.440_450del,H147NA,frameshift,High,1,0,3,0,6,Major functional disruption
+c.495del,F166NA,frameshift,High,1,0,2,0,7,Major functional disruption
+c.525C>A,Y175*,stop gained,High,1,0,3,1,5,Major functional disruption
+c.576C>A,Y192*,stop gained,High,1,0,2,0,7,Major functional disruption
+c.131_132del,E44NA,frameshift,High,7,2,5,1,3,Major functional disruption
+c.230del,N77NA,frameshift,High,6,1,4,1,4,Major functional disruption
+c.388del,R130NA,frameshift,High,6,1,4,1,4,Major functional disruption
+c.396_397insAC,P133NA,frameshift,High,6,1,4,1,4,Major functional disruption
+c.401_402del,G134NA,frameshift,High,6,1,4,1,4,Major functional disruption
+c.413del,G138NA,frameshift,High,6,1,4,1,4,Major functional disruption
+c.418_419del,V140NA,frameshift,High,6,1,4,1,4,Major functional disruption
+c.463dup,A155NA,frameshift,High,1,0,2,1,6,Major functional disruption
+c.501del,Q167NA,frameshift,High,1,0,2,0,7,Major functional disruption
+c.748C>T,Q250*,stop gained,High,0,0,0,0,9,Minimal functional disruption
+c.284_286del,L95NA,inframe deletion,High,0,0,0,0,9,Minimal functional disruption
+c.542dup,I182NA,frameshift,High,0,0,1,0,8,Partial functional disruption
+c.592dup,H198NA,frameshift,High,0,0,1,0,8,Partial functional disruption
+c.703C>T,Q235*,stop gained,High,0,0,0,1,8,Partial functional disruption
+c.706C>T,Q236*,stop gained,High,0,0,0,1,8,Partial functional disruption
+c.602_603del,T201NA,frameshift,High,0,0,1,0,8,Partial functional disruption
+c.604dup,V202NA,frameshift,High,0,0,1,0,8,Partial functional disruption
+c.622G>T,E208*,stop gained,High,0,0,1,0,8,Partial functional disruption
+c.645_655del,LT215*,frameshift,High,0,0,1,0,8,Partial functional disruption
